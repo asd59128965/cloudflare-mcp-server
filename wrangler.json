@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "cloudflare-mcp-server",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "9f4a1c1e-4c1d-4836-8844-8121ef9e7af1",
+			"database_name": "cloudflare-mcp-server-template-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
